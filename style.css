@@ -6,7 +6,7 @@ body {
 	/*flex will affect the divs and place the in  column side by side */
 	display: flex;
 	justify-content: space-around; /*Each element get space */
-	width: 400px;
+	width: 500px;
 
 	/*margin shorthand to help center the elements */
 	margin: 0 auto;
@@ -18,8 +18,8 @@ body {
 }
 
 .profile-img {
-	width: 150px;
-	height: 150px;
+	width: 180px;
+
 	display: block;
 	border-radius: 5px;
 }
